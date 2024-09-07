@@ -623,6 +623,9 @@ footer .btn:hover {
         margin: 0 auto;
         left: 0;
     }
+    .abt-img {
+        margin-bottom: 30px !important;
+    }
 
     .details-box {
         position: relative;
